@@ -1,0 +1,47 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$INOUT 1 1 Set
+$INOUT 5 1 CU
+$INOUT 9 1 Reset
+I 2 "a#28#std_logic_vector(5 downto 0)1 ricd5 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS INOUT 37 2 6 Cout_M
+$SC 13-33/4
+I 3 "a#28#std_logic_vector(4 downto 0)1 ricd4 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS INOUT 58 3 5 5 0 O
+$SC 38-54/4
+$BUS INOUT 83 2 6 5 0 M_Al
+$SC 59-79/4
+$BUS INOUT +25 3 5 5 3 O
+$SC 84-+16/4
+$BUS OUT +25 3 5 5 0 Z
+$SC 105-+16/4
+I 4 "a#14#STRING(1 to 8)1 rict1 8 e#9#characters256 nul soh stx etx eot enq ack bel bs ht lf vt ff cr so si dle dc1 dc2 dc3 dc4 nak syn etb can em sub esc fsp gsp rsp usp '  '! '\" '# '$ '% '& '' '( ') '* '+ ', '- '. '/ '0 '1 '2 '3 '4 '5 '6 '7 '8 '9 ': '; '< '= '> '? '@ 'A 'B 'C 'D 'E 'F 'G 'H 'I 'J 'K 'L 'M 'N 'O 'P 'Q 'R 'S 'T 'U 'V 'W 'X 'Y 'Z '[ '\\ '] '^ '_ '` 'a 'b 'c 'd 'e 'f 'g 'h 'i 'j 'k 'l 'm 'n 'o 'p 'q 'r 's 't 'u 'v 'w 'x 'y 'z '{ '| '} '~ del c128 c129 c130 c131 c132 c133 c134 c135 c136 c137 c138 c139 c140 c141 c142 c143 c144 c145 c146 c147 c148 c149 c150 c151 c152 c153 c154 c155 c156 c157 c158 c159 '  '¡ '¢ '£ '¤ '¥ '¦ '§ '¨ '© 'ª '« '¬ '­ '® '¯ '° '± '² '³ '´ 'µ '¶ '· '¸ '¹ 'º '» '¼ '½ '¾ '¿ 'À 'Á 'Â 'Ã 'Ä 'Å 'Æ 'Ç 'È 'É 'Ê 'Ë 'Ì 'Í 'Î 'Ï 'Ð 'Ñ 'Ò 'Ó 'Ô 'Õ 'Ö '× 'Ø 'Ù 'Ú 'Û 'Ü 'Ý 'Þ 'ß 'à 'á 'â 'ã 'ä 'å 'æ 'ç 'è 'é 'ê 'ë 'ì 'í 'î 'ï 'ð 'ñ 'ò 'ó 'ô 'õ 'ö '÷ 'ø 'ù 'ú 'û 'ü 'ý 'þ 'ÿ "
+I 5 "e#9#characters256 nul soh stx etx eot enq ack bel bs ht lf vt ff cr so si dle dc1 dc2 dc3 dc4 nak syn etb can em sub esc fsp gsp rsp usp '  '! '\" '# '$ '% '& '' '( ') '* '+ ', '- '. '/ '0 '1 '2 '3 '4 '5 '6 '7 '8 '9 ': '; '< '= '> '? '@ 'A 'B 'C 'D 'E 'F 'G 'H 'I 'J 'K 'L 'M 'N 'O 'P 'Q 'R 'S 'T 'U 'V 'W 'X 'Y 'Z '[ '\\ '] '^ '_ '` 'a 'b 'c 'd 'e 'f 'g 'h 'i 'j 'k 'l 'm 'n 'o 'p 'q 'r 's 't 'u 'v 'w 'x 'y 'z '{ '| '} '~ del c128 c129 c130 c131 c132 c133 c134 c135 c136 c137 c138 c139 c140 c141 c142 c143 c144 c145 c146 c147 c148 c149 c150 c151 c152 c153 c154 c155 c156 c157 c158 c159 '  '¡ '¢ '£ '¤ '¥ '¦ '§ '¨ '© 'ª '« '¬ '­ '® '¯ '° '± '² '³ '´ 'µ '¶ '· '¸ '¹ 'º '» '¼ '½ '¾ '¿ 'À 'Á 'Â 'Ã 'Ä 'Å 'Æ 'Ç 'È 'É 'Ê 'Ë 'Ì 'Í 'Î 'Ï 'Ð 'Ñ 'Ò 'Ó 'Ô 'Õ 'Ö '× 'Ø 'Ù 'Ú 'Û 'Ü 'Ý 'Þ 'ß 'à 'á 'â 'ã 'ä 'å 'æ 'ç 'è 'é 'ê 'ë 'ì 'í 'î 'ï 'ð 'ñ 'ò 'ó 'ô 'õ 'ö '÷ 'ø 'ù 'ú 'û 'ü 'ý 'þ 'ÿ "
+$BUS OUT +37 4 8 6 0 _Lit
+$SC 126-+28/4
+I 6 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT +21 6 4 5 0 L
+$SC 159-+12/4
+I 7 "a#29#std_logic_vector(10 downto 0)1 ricd10 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT +49 7 11 5 0 A
+$SC 176-+40/4
+$BUS OUT +25 3 5 5 0 G
+$SC 221-+16/4
+$S +5 1 CLK_Minute
+$S +4 1 CLK_G
+$S +4 1 Enable
+$S +4 1 CarryMin
+$S +4 1 5 0 Ore
+$S +4 1 5 0 Luna
+$S +4 1 Suna_Al
+$S +4 1 Set_Alarma
+$BUS S +28 2 6 Temperatura
+$SC 274-+20/4
+$S +5 1 S_Ora
+$S +4 1 S_Zi
+$S +4 1 S_Luna
+$S +4 1 S_An
+$S +4 1 S_M_Al
+$S +4 1 2 3 O
+$ENDWAVE

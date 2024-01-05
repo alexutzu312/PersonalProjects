@@ -1,0 +1,93 @@
+timestamp=1655798232810
+
+[agenda]
+A/agenda=A/Agenda 21|./src/agenda.vhd|23|1*106080
+B/agenda=3*91203
+H/agenda=0*128563
+R=./src/agenda.vhd|6
+V=0*33356
+
+[alarma]
+A/alarma=A/Alarma 21|./src/alarma.vhd|22|1*120626
+B/alarma=3*93385
+H/alarma=0*145546
+R=./src/alarma.vhd|6
+V=0*45413
+
+[grade]
+A/grade=A/Grade 21|./src/grade.vhd|15|1*118674
+B/grade=3*91556
+H/grade=0*144315
+R=./src/grade.vhd|6
+V=0*5427
+
+[nrpseudo]
+A/nrpseudo=A/NrPseudo 21|./src/numarator.vhd|14|1*124195
+B/nrpseudo=3*98023
+H/nrpseudo=0*147770
+R=./src/numarator.vhd|6
+V=0*40294
+
+[numan]
+A/numan=A/NumAn 21|./src/numan.vhd|16|1*135388
+B/numan=3*119399
+H/numan=0*156200
+R=./src/numan.vhd|6
+V=0*2267
+
+[nummin]
+A/nummin=A/NumMin 21|./src/nummin.vhd|16|1*133252
+B/nummin=3*116685
+H/nummin=0*154845
+R=./src/nummin.vhd|5
+V=0*50602
+
+[numore]
+A/numore=A/NumOre 21|./src/numore.vhd|16|1*126160
+B/numore=3*99315
+H/numore=0*148927
+R=./src/numore.vhd|5
+V=0*54145
+
+[numzile]
+A/numzile=A/NumZile 21|./src/numzile.vhd|22|1*128519
+B/numzile=3*102609
+H/numzile=0*150340
+R=./src/numzile.vhd|6
+V=0*12648
+
+[~A]
+./src/agenda.vhd~Agenda=0*14943*15640
+./src/agenda.vhd~AgendaAgenda=0*140880*144246
+./src/alarma.vhd~Alarma=0*41135*41766
+./src/alarma.vhd~AlarmaAlarma=0*146807*147701
+./src/grade.vhd~Grade=0*3193*3530
+./src/grade.vhd~GradeGrade=0*144973*145480
+./src/numan.vhd~NumAn=0*0*362
+./src/numan.vhd~NumAnNumAn=0*156868*157322
+./src/numarator.vhd~NrPseudo=0*38147*38480
+./src/numarator.vhd~NrPseudoNrPseudo=0*148435*148851
+./src/nummin.vhd~NumMin=0*48127*48491
+./src/nummin.vhd~NumMinNumMin=0*155507*156131
+./src/numore.vhd~NumOre=0*51618*51980
+./src/numore.vhd~NumOreNumOre=0*149651*150271
+./src/numzile.vhd~NumZile=0*6279*6858
+./src/numzile.vhd~NumZileNumZile=0*152154*154773
+ModifyID=206
+Version=73
+
+[~MFT]
+0=213|0agenda.mgf|157322|102227
+1=57|1agenda.mgf|135388|106080
+3=57|3agenda.mgf|119399|91203
+
+[~U]
+agenda=Agenda 11|0*31455|0*31966
+alarma=Alarma 11|0*44053|0*44507
+grade=Grade 11|0*4822|0*5022
+nrpseudo=NrPseudo 11|0*39705|0*39896
+numan=NumAn 11|0*1611|0*1834
+nummin=NumMin 11|0*49909|0*50165
+numore=NumOre 11|0*53456|0*53710
+numzile=NumZile 11|0*11428|0*11860
+

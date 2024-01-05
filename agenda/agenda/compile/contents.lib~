@@ -1,0 +1,17 @@
+206
+~E 1 "./src/numarator.vhd" 6 nrpseudo
+~A 1 "./src/numarator.vhd" 14 nrpseudo
+~E 1 "./src/alarma.vhd" 6 alarma
+~A 1 "./src/alarma.vhd" 22 alarma
+~E 1 "./src/agenda.vhd" 6 agenda
+~A 1 "./src/agenda.vhd" 23 agenda
+~E 1 "./src/grade.vhd" 6 grade
+~A 1 "./src/grade.vhd" 15 grade
+~E 1 "./src/nummin.vhd" 5 nummin
+~A 1 "./src/nummin.vhd" 16 nummin
+~E 1 "./src/numan.vhd" 6 numan
+~A 1 "./src/numan.vhd" 16 numan
+~E 1 "./src/numore.vhd" 5 numore
+~A 1 "./src/numore.vhd" 16 numore
+~E 1 "./src/numzile.vhd" 6 numzile
+~A 1 "./src/numzile.vhd" 22 numzile

@@ -1,0 +1,83 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=agenda
+
+[Library]
+agenda=.\agenda.lib
+
+[$LibMap$]
+agenda=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+HESPrepare=0
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=agenda|agenda|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/agenda.vhd=-1
+/grade.vhd=-1
+/alarma.vhd=-1
+/numarator.vhd=-1
+/numore.vhd=-1
+/numzile.vhd=-1
+/nummin.vhd=-1
+/numan.vhd=-1
+/waveform editor 1.awf=-1
+/waveform editor 2.awf=-1
+/waveform editor 3.awf=-1
+/waveform editor 4.awf=-1
+/waveform editor 5.awf=-1
+/waveform editor 6.awf=-1
+/waveform editor 7.awf=-1
+/waveform editor 8.awf=-1
+/waveform editor 10.awf=-1
+/waveform editor 9.awf=-1
+/waveform editor 11.awf=-1
+/waveform editor 12.awf=-1
+/waveform editor 13.awf=-1
+/waveform editor 15.awf=-1
+
+[Files.Data]
+.\src\agenda.vhd=VHDL Source Code
+.\src\grade.vhd=VHDL Source Code
+.\src\alarma.vhd=VHDL Source Code
+.\src\numarator.vhd=VHDL Source Code
+.\src\numore.vhd=VHDL Source Code
+.\src\numzile.vhd=VHDL Source Code
+.\src\nummin.vhd=VHDL Source Code
+.\src\numan.vhd=VHDL Source Code
+.\src\waveform editor 1.awf=Waveform File
+.\src\waveform editor 2.awf=Waveform File
+.\src\waveform editor 3.awf=Waveform File
+.\src\waveform editor 4.awf=Waveform File
+.\src\waveform editor 5.awf=Waveform File
+.\src\waveform editor 6.awf=Waveform File
+.\src\waveform editor 7.awf=Waveform File
+.\src\waveform editor 8.awf=Waveform File
+.\src\waveform editor 10.awf=Waveform File
+.\src\waveform editor 9.awf=Waveform File
+.\src\waveform editor 11.awf=Waveform File
+.\src\waveform editor 12.awf=Waveform File
+.\src\waveform editor 13.awf=Waveform File
+.\src\waveform editor 15.awf=Waveform File
+

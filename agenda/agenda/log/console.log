@@ -1,0 +1,648 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  agenda agenda
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2459 kB (elbread=1071 elab2=336 kernel=1052 sdf=0)
+# 12:06, mar?i, 21 iunie 2022
+# Simulation has been initialized
+# Selected Top-Level: agenda (agenda)
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: stopped at time: 200 ns
+run 100 ns
+# KERNEL: stopped at time: 300 ns
+run 100 ns
+# KERNEL: stopped at time: 400 ns
+run 100 ns
+# KERNEL: stopped at time: 500 ns
+run 100 ns
+# KERNEL: stopped at time: 600 ns
+run 100 ns
+# KERNEL: stopped at time: 700 ns
+run 100 ns
+# KERNEL: stopped at time: 800 ns
+run 100 ns
+# KERNEL: stopped at time: 900 ns
+run 100 ns
+# KERNEL: stopped at time: 1 us
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2459 kB (elbread=1071 elab2=336 kernel=1052 sdf=0)
+# 12:08, mar?i, 21 iunie 2022
+# Simulation has been initialized
+# Selected Top-Level: agenda (agenda)
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: stopped at time: 200 ns
+run 100 ns
+# KERNEL: stopped at time: 300 ns
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2459 kB (elbread=1071 elab2=336 kernel=1052 sdf=0)
+# 12:08, mar?i, 21 iunie 2022
+# Simulation has been initialized
+# Selected Top-Level: agenda (agenda)
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 150 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 150 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 150 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 150 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 150 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 200 ns
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 250 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 250 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 250 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 250 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 250 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 300 ns
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 350 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 350 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 350 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 350 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 350 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 400 ns
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 450 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 450 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 450 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 450 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 450 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 500 ns
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 550 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 550 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 550 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 550 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 550 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 600 ns
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 650 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 650 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 650 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 650 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 650 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 700 ns
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2459 kB (elbread=1071 elab2=336 kernel=1052 sdf=0)
+# 12:08, mar?i, 21 iunie 2022
+# Simulation has been initialized
+# Selected Top-Level: agenda (agenda)
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 1,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 2,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 100 ns,  Iteration: 3,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 100 ns,  Iteration: 3,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 100 ns,  Iteration: 3,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 100 ns,  Iteration: 3,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 100 ns,  Iteration: 3,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 200 ns
+run 100 ns
+# KERNEL: stopped at time: 300 ns
+run 100 ns
+# KERNEL: stopped at time: 400 ns
+run 100 ns
+# KERNEL: stopped at time: 500 ns
+run 100 ns
+# KERNEL: stopped at time: 600 ns
+run 100 ns
+# KERNEL: stopped at time: 700 ns
+run 100 ns
+# KERNEL: stopped at time: 800 ns
+run 100 ns
+# KERNEL: stopped at time: 900 ns
+run 100 ns
+# KERNEL: stopped at time: 1 us
+run 100 ns
+# KERNEL: stopped at time: 1100 ns
+run 100 ns
+# KERNEL: stopped at time: 1200 ns
+run 100 ns
+# KERNEL: stopped at time: 1300 ns
+run 100 ns
+# KERNEL: stopped at time: 1400 ns
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2459 kB (elbread=1071 elab2=336 kernel=1052 sdf=0)
+# 12:09, mar?i, 21 iunie 2022
+# Simulation has been initialized
+# Selected Top-Level: agenda (agenda)
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2459 kB (elbread=1071 elab2=336 kernel=1052 sdf=0)
+# 12:17, mar?i, 21 iunie 2022
+# Simulation has been initialized
+# Selected Top-Level: agenda (agenda)
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+asim -advdataflow  agenda agenda
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2459 kB (elbread=1071 elab2=336 kernel=1052 sdf=0)
+# 12:17, mar?i, 21 iunie 2022
+# Simulation has been initialized
+# Selected Top-Level: agenda (agenda)
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 100 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+asim -advdataflow  agenda agenda
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2459 kB (elbread=1071 elab2=336 kernel=1052 sdf=0)
+# 12:23, mar?i, 21 iunie 2022
+# Simulation has been initialized
+# Selected Top-Level: agenda (agenda)
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /C5,  Process: line__29.
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: stopped at time: 200 ns
+run 100 ns
+# KERNEL: stopped at time: 300 ns
+run 100 ns
+# KERNEL: stopped at time: 400 ns
+run 100 ns
+# KERNEL: stopped at time: 500 ns
+run 100 ns
+# KERNEL: stopped at time: 600 ns
+run 100 ns
+# KERNEL: stopped at time: 700 ns
+run 100 ns
+# KERNEL: stopped at time: 800 ns
+run 100 ns
+# KERNEL: stopped at time: 900 ns
+run 100 ns
+# KERNEL: stopped at time: 1 us
+run 100 ns
+# KERNEL: stopped at time: 1100 ns
+run 1000 ns
+# KERNEL: stopped at time: 2100 ns
+run 1000 ns
+# KERNEL: stopped at time: 3100 ns
+run 1000 ns
+# KERNEL: stopped at time: 4100 ns
+run 1000 ns
+# KERNEL: stopped at time: 5100 ns
+run 1000 ns
+# KERNEL: stopped at time: 6100 ns
+run 1000 ns
+# KERNEL: stopped at time: 7100 ns
+run 1000 ns
+# KERNEL: stopped at time: 8100 ns
+run 1000 ns
+# KERNEL: stopped at time: 9100 ns
+run 1000 ns
+# KERNEL: stopped at time: 10100 ns
+run 1000 ns
+# KERNEL: stopped at time: 11100 ns
+run 1000 ns
+# KERNEL: stopped at time: 12100 ns
+run 1000 ns
+# KERNEL: stopped at time: 13100 ns
+run 1000 ns
+# KERNEL: stopped at time: 14100 ns
+run 1000 ns
+# KERNEL: stopped at time: 15100 ns
+run 1000 ns
+# KERNEL: stopped at time: 16100 ns
+run 1000 ns
+# KERNEL: stopped at time: 17100 ns
+run 1000 ns
+# KERNEL: stopped at time: 18100 ns
+run 1000 ns
+# KERNEL: stopped at time: 19100 ns
+run 1000 ns
+# KERNEL: stopped at time: 20100 ns
+run 1000 ns
+# KERNEL: stopped at time: 21100 ns
+run 1000 ns
+# KERNEL: stopped at time: 22100 ns
+run 1000 ns
+# KERNEL: stopped at time: 23100 ns
+run 1000 ns
+# KERNEL: stopped at time: 24100 ns
+run 1000 ns
+# KERNEL: stopped at time: 25100 ns
+run 1000 ns
+# KERNEL: stopped at time: 26100 ns
+run 1000 ns
+# KERNEL: stopped at time: 27100 ns
+run 1000 ns
+# KERNEL: stopped at time: 28100 ns
+run 1000 ns
+# KERNEL: stopped at time: 29100 ns
+run 1000 ns
+# KERNEL: stopped at time: 30100 ns
+run 1000 ns
+# KERNEL: stopped at time: 31100 ns
+run 1000 ns
+# KERNEL: stopped at time: 32100 ns
+run 1000 ns
+# KERNEL: stopped at time: 33100 ns
+run 1000 ns
+# KERNEL: stopped at time: 34100 ns
+run 1000 ns
+# KERNEL: stopped at time: 35100 ns
+run 1000 ns
+# KERNEL: stopped at time: 36100 ns
+run 1000 ns
+# KERNEL: stopped at time: 37100 ns
+run 1000 ns
+# KERNEL: stopped at time: 38100 ns
+run 1000 ns
+# KERNEL: stopped at time: 39100 ns
+run 10000 ns
+# KERNEL: stopped at time: 49100 ns
+run 10000 ns
+# KERNEL: stopped at time: 59100 ns
+run 10000 ns
+# KERNEL: stopped at time: 69100 ns
+run 10000 ns
+# KERNEL: stopped at time: 79100 ns
+run 10000 ns
+# KERNEL: stopped at time: 89100 ns
+run 10000 ns
+# KERNEL: stopped at time: 99100 ns
+run 10000 ns
+# KERNEL: stopped at time: 109100 ns
+run 10000 ns
+# KERNEL: stopped at time: 119100 ns
+run 10000 ns
+# KERNEL: stopped at time: 129100 ns
+run 10000 ns
+# KERNEL: stopped at time: 139100 ns
+run 10000 ns
+# KERNEL: stopped at time: 149100 ns
+run 10000 ns
+# KERNEL: stopped at time: 159100 ns
+run 10000 ns
+# KERNEL: stopped at time: 169100 ns
+run 10000 ns
+# KERNEL: stopped at time: 179100 ns
+run 10000 ns
+# KERNEL: stopped at time: 189100 ns
+run 10000 ns
+# KERNEL: stopped at time: 199100 ns
+run 10000 ns
+# KERNEL: stopped at time: 209100 ns
+run 10000 ns
+# KERNEL: stopped at time: 219100 ns
+run 10000 ns
+# KERNEL: stopped at time: 229100 ns
+run 10000 ns
+# KERNEL: stopped at time: 239100 ns
+run 10000 ns
+# KERNEL: stopped at time: 249100 ns
+run 10000 ns
+# KERNEL: stopped at time: 259100 ns
+run 10000 ns
+# KERNEL: stopped at time: 269100 ns
+run 10000 ns
+# KERNEL: stopped at time: 279100 ns
+run 10000 ns
+# KERNEL: stopped at time: 289100 ns
+run 10000 ns
+# KERNEL: stopped at time: 299100 ns
+run 10000 ns
+# KERNEL: stopped at time: 309100 ns
+run 10000 ns
+# KERNEL: stopped at time: 319100 ns
+run 10000 ns
+# KERNEL: stopped at time: 329100 ns
+run 10000 ns
+# KERNEL: stopped at time: 339100 ns
+run 10000 ns
+# KERNEL: stopped at time: 349100 ns
+run 10000 ns
+# KERNEL: stopped at time: 359100 ns
+run 100000 ns
+# KERNEL: stopped at time: 459100 ns
+run 100000 ns
+# KERNEL: stopped at time: 559100 ns
+run 100000 ns
+# KERNEL: stopped at time: 659100 ns
+run 100000 ns
+# KERNEL: stopped at time: 759100 ns
+run 100000 ns
+# KERNEL: stopped at time: 859100 ns
+run 100000 ns
+# KERNEL: stopped at time: 959100 ns
+run 100000 ns
+# KERNEL: stopped at time: 1059100 ns
+run 100000 ns
+# KERNEL: stopped at time: 1159100 ns
+run 100000 ns
+# KERNEL: stopped at time: 1259100 ns
+run 100000 ns
+# KERNEL: stopped at time: 1359100 ns
+run 100000 ns
+# KERNEL: stopped at time: 1459100 ns
+run 100000 ns
+# KERNEL: stopped at time: 1559100 ns
+run 100000 ns
+# KERNEL: stopped at time: 1659100 ns
+run 100000 ns
+# KERNEL: stopped at time: 1759100 ns
+run 100000 ns
+# KERNEL: stopped at time: 1859100 ns
+run 100000 ns
+# KERNEL: stopped at time: 1959100 ns
+run 100000 ns
+# KERNEL: stopped at time: 2059100 ns
+run 100000 ns
+# KERNEL: stopped at time: 2159100 ns
+run 100000 ns
+# KERNEL: stopped at time: 2259100 ns
+run 100000 ns
+# KERNEL: stopped at time: 2359100 ns
+run 100000 ns
+# KERNEL: stopped at time: 2459100 ns
+run 100000 ns
+# KERNEL: stopped at time: 2559100 ns
+run 100000 ns
+# KERNEL: stopped at time: 2659100 ns
+run 100000 ns
+# KERNEL: stopped at time: 2759100 ns
+run 100000 ns
+# KERNEL: stopped at time: 2859100 ns
+run 100000 ns
+# KERNEL: stopped at time: 2959100 ns
+run 100000 ns
+# KERNEL: stopped at time: 3059100 ns
+run 100000 ns
+# KERNEL: stopped at time: 3159100 ns
+run 100000 ns
+# KERNEL: stopped at time: 3259100 ns
+run 100000 ns
+# KERNEL: stopped at time: 3359100 ns
+run 100000 ns
+# KERNEL: stopped at time: 3459100 ns
+run 100000 ns
+# KERNEL: stopped at time: 3559100 ns
+run 100000 ns
+# KERNEL: stopped at time: 3659100 ns
+run 100000 ns
+# KERNEL: stopped at time: 3759100 ns
+run 100000 ns
+# KERNEL: stopped at time: 3859100 ns
+run 100000 ns
+# KERNEL: stopped at time: 3959100 ns
+run 100000 ns
+# KERNEL: stopped at time: 4059100 ns
+run 100000 ns
+# KERNEL: stopped at time: 4159100 ns
+run 100000 ns
+# KERNEL: stopped at time: 4259100 ns
+run 100000 ns
+# KERNEL: stopped at time: 4359100 ns
+run 100000 ns
+# KERNEL: stopped at time: 4459100 ns
+run 100000 ns
+# KERNEL: stopped at time: 4559100 ns
+# Simulation has been stopped
