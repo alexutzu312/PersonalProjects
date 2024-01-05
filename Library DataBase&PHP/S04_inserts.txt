@@ -1,0 +1,146 @@
+--inserts for biblioteca
+
+--Persoane
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii) 
+VALUES (1, 'Mirecea Carturescu', 210134567, 'Bucuresti', '1956-06-01');
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii)  
+VALUES (2, 'Alexut', 700000000, 'Cluj-Napoca', '2001-12-03')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii) 
+VALUES (3, 'Petra', 700000001, 'Cluj-Napoca', '2002-10-31')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii) 
+VALUES (4, 'Iulian', 700000002, 'Cluj-Napoca', '2006-01-02')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii) 
+VALUES (5, 'Alina', 700000007, 'Cluj-Napoca', '1977-11-03')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii) 
+VALUES (6, 'Marius', 700000008, 'Cluj-Napoca', '1974-11-19')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii) 
+VALUES (7, 'Tudor', 700000009, 'Cluj-Napoca', '2000-09-30')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii) 
+VALUES (8, 'Razvan', 700000010, 'Cluj-Napoca', '2000-10-4')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii) 
+VALUES (9, 'Bogdan', 700000011, 'Cluj-Napoca', '1998-10-5')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii) 
+VALUES (10, 'Dragos', 700000012, 'Cluj-Napoca', '2001-02-07')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii) 
+VALUES (11, 'Paul', 700000013, 'Cluj-Napoca', '1994-02-03')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii) 
+VALUES (12, 'Adi', 700000014, 'Cluj-Napoca', '2002-01-31')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii) 
+VALUES (13, 'Costache', 700000015, 'Cluj-Napoca', '2002-07-13')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii)
+VALUES (100, 'Vasilica', 700000016, 'Cluj-Napoca', '1985-01-01')
+
+INSERT INTO Persoana (id_pers, nume, telefon, adresa, data_nasterii)
+VALUES (101, 'Ionut', 700000017, 'Cluj-Napoca', '1985-01-02')
+
+-- Carti
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (1, 'The Art of Computer Programming', 115, 150, 'Tehnic');
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (2, 'Effective Java', 150, 180, 'Tehnic');
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (3, 'Introduction to Algorithms', 233, 350, 'Tehnic');
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (4, 'Operating System Concepts', 270, 230, 'Tehnic');
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (5, 'Compilers: Principles, Techniques, and Tools', 220, 105, 'Tehnic');
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (11, 'Cenusareasa', 70, 300, 'Copii');
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (12, 'Alba ca Zapada', 90, 250, 'Copii');
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (13, 'Mica Sirena', 120, 250, 'Copii');
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (14, 'Hercules', 150, 80, 'Mitologie');
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (15, 'Visul', 294, 100, 'Fantastic');
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (16, 'Shogun', 155, 158, 'Autobiografic');
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (17, 'Shogun', 125, 220, 'Autobiografic');
+
+INSERT INTO Carte (id_carte, titlu, nr_pagini, nr_exemplare, gen) 
+VALUES (18, 'Shogun', 125, 350, 'Autobiografic');
+
+--Imprumuturi
+
+INSERT INTO Imprumut (id_carte, id_imp, datai, nr_zile) 
+VALUES (1, 6, '2022-11-29', 6);
+
+INSERT INTO Imprumut (id_carte, id_imp, datai, nr_zile) 
+VALUES (1, 8, '2022-11-30', 4);
+
+INSERT INTO Imprumut (id_carte, id_imp, datai, nr_zile) 
+VALUES (15, 11, '2022-12-01', 15);
+
+INSERT INTO Imprumut (id_carte, id_imp, datai, nr_zile) 
+VALUES (3, 2, '2022-11-20', 8);
+
+INSERT INTO Imprumut (id_carte, id_imp, datai) 
+VALUES (11, 3, '2023-01-12');
+
+INSERT INTO Imprumut (id_carte, id_imp, datai, nr_zile) 
+VALUES (2, 12, '2022-12-24', 5);
+
+INSERT INTO Imprumut (id_carte, id_imp, datai, nr_zile) 
+VALUES (11, 5, '2022-12-29', 22);
+
+INSERT INTO Imprumut (id_carte, id_imp, datai, nr_zile) 
+VALUES (5, 13, '2022-12-25', 7);
+
+INSERT INTO Imprumut (id_carte, id_imp, datai, nr_zile) 
+VALUES (15, 1, '2022-12-30', 7);
+
+INSERT INTO Imprumut (id_carte, id_imp, datai) 
+VALUES (11, 2, '2023-01-10');
+
+--Autori
+
+INSERT INTO Autor (id_carte, id_aut) 
+VALUES (15, 1);
+
+INSERT INTO Autor (id_carte, id_aut) 
+VALUES (3, 7);
+
+INSERT INTO Autor (id_carte, id_aut) 
+VALUES (14, 100);
+
+INSERT INTO Autor (id_carte, id_aut) 
+VALUES (14, 101);
+
+INSERT INTO Autor (id_carte, id_aut) 
+VALUES (1, 8);
+
+INSERT INTO Autor (id_carte, id_aut) 
+VALUES (1, 9);
+
+INSERT INTO Autor (id_carte, id_aut) 
+VALUES (3, 8);
+
+
