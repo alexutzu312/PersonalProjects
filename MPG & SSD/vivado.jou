@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Jan 04 19:40:23 2024
+# Process ID: 18860
+# Current directory: C:/Users/User/Desktop/CTI/AN II/SEM 2/ac/lab2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18840 C:\Users\User\Desktop\CTI\AN II\SEM 2\ac\lab2\lab2.xpr
+# Log file: C:/Users/User/Desktop/CTI/AN II/SEM 2/ac/lab2/vivado.log
+# Journal file: C:/Users/User/Desktop/CTI/AN II/SEM 2/ac/lab2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/User/Desktop/CTI/AN II/SEM 2/ac/lab2/lab2.xpr}

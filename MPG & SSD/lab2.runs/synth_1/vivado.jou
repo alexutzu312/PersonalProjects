@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Mar 16 19:07:52 2023
+# Process ID: 5896
+# Current directory: C:/Users/User/Desktop/CTI/AN II/SEM 2/ac/lab2/lab2.runs/synth_1
+# Command line: vivado.exe -log lab2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lab2.tcl
+# Log file: C:/Users/User/Desktop/CTI/AN II/SEM 2/ac/lab2/lab2.runs/synth_1/lab2.vds
+# Journal file: C:/Users/User/Desktop/CTI/AN II/SEM 2/ac/lab2/lab2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source lab2.tcl -notrace
